@@ -12,7 +12,7 @@ sudo pip install pytesseract
 
 git clone https://github.com/salmandhariwala/python-pdf-ocr.git
 
-nohup python ~/python-pdf-ocr/flask_server/app.py &
+sudo nohup python ~/python-pdf-ocr/flask_server/app.py &
 
 
 
