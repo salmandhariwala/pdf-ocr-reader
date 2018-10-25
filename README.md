@@ -1,5 +1,9 @@
-run this command on ubuntu server
+# pdf ocr server
 
-wget https://s3-us-west-2.amazonaws.com/salman-delete/run.sh && sh run.sh
+extracts text from pdf file
 
-after running above command check port 80.
+
+> run command
+> wget https://s3-us-west-2.amazonaws.com/salman-delete/run.sh && sh run.sh
+
+You can view the UI on port 80
